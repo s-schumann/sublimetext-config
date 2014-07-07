@@ -17,3 +17,8 @@ I am currently using the following plug-ins:
 - SublimeLinter-jshint
 - SublimeLinter-json
 - SublimeLinter-ruby
+
+On my Mac (where most of my development happens) I use these plug-ins in addition:
+
+- DashDoc
+- Markdown Preview
