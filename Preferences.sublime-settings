@@ -13,10 +13,18 @@
 	"ignored_packages":
 	[
 	],
+	"sublimeLinter": true,
+	"sublimelinter_mark_style": "fill",
+	"jshint_options":
+	{
+		"indent": 2
+	},
 	"scroll_past_end": true,
 	"soda_classic_tabs": false,
 	"spell_check": true,
 	"theme": "Soda Light 3.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"vintage_start_in_command_mode": false
+	"vintage_start_in_command_mode": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
 }
